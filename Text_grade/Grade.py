@@ -80,16 +80,9 @@ def window(data,totals,avg):
 def main ():
     filepath = 'Text_grade/student.txt'
     data = read_file(filepath)
-    
-  
     totals = total_grade(data)
     avg = avg_grade(totals)
     window(data,totals,avg)
-
-
-
-
-
 
 if __name__ == "__main__":
     main()
