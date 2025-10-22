@@ -1,0 +1,137 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+.head{
+    border: 2px solid black;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    background-color: rgb(112, 98, 33);
+}
+
+.nav{
+    /* border: 2px solid rgb(4, 220, 253); */
+    margin: 200px;
+    padding: 6px;
+    
+
+}
+
+.title{
+    border: 3px solid rgb(0, 0, 0);
+    border-radius: 10px 10px;
+    background-color: antiquewhite;
+    
+}
+
+.title-text{
+    /* border: 3px solid blueviolet; */
+    margin: 1px;
+    padding: 2px;
+}
+
+.content{
+    border: 2px solid black;
+    height: 1150px;    
+    background-image: url(https://th.bing.com/th/id/OIP.ZNGFAcyjvNsDVhSfPvQVYgHaE8?w=261&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7);
+}
+
+.con-text{
+    border: 2px solid rgb(242, 244, 227);
+    height: 1148px;
+    margin-left: 200px; 
+    margin-right: 200px;
+    background-color: bisque;
+}
+
+.btn{
+    /* border: 2px solid blueviolet; */
+    margin: 20px;
+    margin-right: 50px;
+    text-align: end;
+    text-decoration: none;    
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    margin: 0.8rem;
+}
+
+button{
+    background-color: aquamarine;
+    border-radius: 10px 10px;    
+}
+
+.restaurant{
+    /* border: 2px solid black; */
+    background-color: gray;
+    height: 40px;
+    margin-left: 40px;
+    margin-right: 40px;
+    display: flex;
+    align-items: center;
+}
+
+.name{
+    margin-left: 30px;
+}
+
+p{
+    font-size: large;
+}
+
+h1{
+    font-size: large;
+}
+
+.picmap{
+    /* border: 2px solid black; */
+    height: 300px;
+    margin-left: 40px;
+    margin-right: 40px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.picture{
+    /* border: 2px solid black; */
+    margin: 30px;
+    width: 400px;
+    height: 280px;
+    background-image: url(image/thaiwang.png);
+    /* background-color: brown; */
+}
+
+.map{
+    /* border: 2px solid black; */
+    margin: 30px;
+    width: 300px;
+    /* background-color: blueviolet; */
+}
+
+.space{
+    margin: 60px;
+}
+
+.rate{
+    /* border: 2px solid black; */
+    display: flex;
+    margin-left: 130px;
+    margin-right: 40px;
+}
+
+.con-rate{
+    /* border: 2px solid blue; */
+    margin: 30px;
+    width: 300px;
+
+}
+
+.page{
+    /* border: 2px solid black; */
+    height: 40px;
+}

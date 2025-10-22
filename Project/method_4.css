@@ -1,0 +1,152 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.head{
+    background-color: purple;
+    border: 3px solid black;
+    height: 2.5rem;
+    display: grid;
+    align-items: center;
+}
+
+.title{
+    /* border: 3px solid black; */
+    height: 30px;
+    margin-left: 250px;
+    margin-right: 250px;
+    display: flex;
+    align-items: center;
+    
+}
+
+.title-text{
+    border: 3px solid black;
+    background-color: rgb(174, 130, 216);
+    color: rgb(255, 255, 255);
+    margin: 50px;
+    width: 70px;
+    border-radius: 7px;
+    text-align: center;
+    padding: 2px;
+}
+
+.bg-img{
+    /* border: 3px solid black; */
+    width: 100%;
+    height: 1205px;
+    background-image: url(https://www.apthai.com/images/production/d2Mov9A6jnh0MkgPr2iu0E6htTm5E7pWmhtMcW3Y.jpg);
+}
+
+.bg{
+    /* border: 3px solid purple; */
+    background-color: bisque;
+    height: 1200px;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+
+.head-text{
+    /* border: 2px solid olivedrab; */
+    height: 5rem;
+    display: grid;
+    align-items: center;
+}
+
+.msg{
+    /* border: 3px solid floralwhite; */
+    text-align: center;
+}
+
+h1{
+    font-size: 30px;
+}
+
+p{
+    font-size: 18px;
+}
+
+.group-picture{
+    /* border: 3px solid gold; */
+    height: 25%;
+    margin-left: 35px;
+    margin-right: 35px;
+    display: flex;
+    align-items: center;
+}
+
+img{
+    width: 300px;
+    height: 280px;
+}
+
+.picture{
+    margin: 0.4rem;
+}
+
+ .btn-text{
+    /* border: 2px solid black; */
+    height: 2.5rem;
+    margin-left: 35px;
+    margin-right: 35px; 
+    display: flex;
+    align-items: center;   
+ }
+
+button{
+    margin-left: 125px;
+    background-color: brown;
+    width: 60px;
+    border-radius: 7px;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+
+.btn-2{
+    margin-left: 130px;
+}
+
+.btn-3{
+    margin-left: 130px;
+}
+
+.space{
+    /* border: 2px solid black; */
+    height: 12%;
+}
+
+.btn-msg{
+    margin-left: 130px;
+}
+
+.page{
+    /* border: 2px solid black; */
+    margin-left: 70px;
+    width: 73%;
+}
+
+.home{
+    /* border: 2px solid black; */
+    height: 4%;
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    margin-left: 90px;
+    margin-right: 90px;
+}
+
+.go-index{
+    border: 2px solid black;
+    height: 20px;
+    width: 70px;
+    border-radius: 5px 5px;
+    background-color: rgb(255, 213, 0);
+}
+
+.homecolor{
+    color: black;
+}
